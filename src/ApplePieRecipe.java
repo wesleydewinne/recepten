@@ -3,7 +3,7 @@ public class ApplePieRecipe {
 public String recipe;
 
     Ingredient boter = new Ingredient("roomboter", "gram",200.0);
-    Ingredient suiker = new Ingredient("suiker", "gram", 200.0);
+    Ingredient basterdsuiker = new Ingredient("basterd suiker", "gram", 200.0);
     Ingredient bakmeel = new Ingredient("bakmeel", "gram", 400.0);
     Ingredient ei = new Ingredient("Ei", "stuk", 1.0);
     Ingredient vanillesuiker = new Ingredient("vanillesuiker", "gram", 8.0);
