@@ -4,7 +4,6 @@ public class Ingredient {
     public String name;
     public String unit;
 
-
     public Ingredient(String name, String unit, Double amount) {
         this.name = name;
         this.unit = unit;
